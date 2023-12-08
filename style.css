@@ -1,0 +1,63 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.main{
+    width: 100%;
+    height: 40px;
+background-color: blue
+}
+.class1{
+background-color: rgba(0, 0, 255, 0.767);
+width: 100%;
+height: 40px;
+}
+.class2{
+
+    background-color: rgba(0, 0, 255, 0.575);
+    width: 100%;
+    height: 40px;
+}
+.class3{
+
+    background-color: rgba(0, 0, 255, 0.411);
+    width: 100%;
+    height: 40px;
+}
+.class4{
+    background-color: rgba(0, 0, 255, 0.315);
+    width: 100%;
+    height: 40px;
+} 
+.class10{
+    background-color: aliceblue;
+    height: 40px;
+    width: 100%;
+}
+.class5{
+    background-color: rgba(255, 68, 0, 0.938); width: 100%;
+    height: 40px;
+    width: 100%;
+}
+.class6{
+    background-color: rgba(255, 68, 0, 0.767); width: 100%;
+    height: 40px;
+    width: 100%;
+}
+.class7{
+    background-color: rgba(255, 68, 0, 0.596); width: 100%;
+    height: 40px;
+    width: 100%;
+}
+.class8{
+    background-color: rgba(255, 68, 0, 0.534); width: 100%;
+    height: 40px;
+    width: 100%;
+}
+.class9{
+    background-color: rgba(255, 68, 0, 0.466); width: 100%;
+    height: 40px;
+    width: 100%;
+}
+
